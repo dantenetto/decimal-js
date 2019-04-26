@@ -4,8 +4,8 @@ Decimal is a small library that makes easy and safe work with decimal values in 
 
 ### 1. Features
 - can convert the base js types to decimal
-- allow arithmetical operations
-- allow string formatting
+- allows arithmetical operations
+- allows string formatting
 - can safely be converted back to number
 
 ### 2. Basic Interface
